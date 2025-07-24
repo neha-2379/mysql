@@ -1,7 +1,6 @@
 CREATE DATABASE pubs;
 
 USE pubs;
-hello
 CREATE TABLE authors
 (
    au_id          varchar(11) 	    NOT NULL,
